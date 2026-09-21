@@ -114,7 +114,7 @@ document
 
 const crearFlores = setInterval(() => {
 
-    for (let j = 0; j < 10; j++) {
+    for (let j = 0; j < 1; j++) {
 
         if (i >= 70) {
             clearInterval(crearFlores);
